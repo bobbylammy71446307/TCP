@@ -1,0 +1,3 @@
+2024-03-18 Mon 15:55:42   **//Roboarm Start//**
+2024-03-18 Mon 15:55:54   Received message:{"command":"factoryhome","targetarm":"armfixed"}
+2024-03-18 Mon 15:55:54   Publishing message:{"feedback": "ack", "targetarm": "armfixed", "commandstatus": "accepted"}
